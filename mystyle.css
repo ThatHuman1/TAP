@@ -3,7 +3,7 @@
 
 }
 
-.topnav a{
+.navbar a{
     background-color: rgba(80, 89, 212, 0.63);
     float: left;
     display: block;
@@ -13,7 +13,7 @@
     position: sticky;
     } 
 
-    .topnav a:hover{
+    .navbar a:hover{
         background-color: rgb(12, 8, 223);
         color: rgb(182, 182, 182);
         }
