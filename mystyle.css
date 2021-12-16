@@ -22,13 +22,17 @@
   float: right;    
   }
 
+.main a{
+column-gap:1, 9;
+
+}
+
 aside {
 float: top, right;
 border: 2px solid rgb(0, 0, 0);
 padding: 10px;
+column-gap: 9,12;
 } 
-
-
 
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
