@@ -1,5 +1,7 @@
 .header a{
     background-color: rgb(3, 10, 105);
+    border: rgb(3, 10, 105);
+    padding: 2px;
 }
 
 .navbar a{
